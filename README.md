@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @soraplay
-- 👀 I’m interested in  рост над собой как программиста, так же есть желание заниматься научной деятельностью. Интересуюсь работой передовых технологий и постепенно изучаю свой основной язык C #
-- 🌱 I’m currently learning  в Мариупольском Государственном Университете (Системный Анализ).
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me заранее договориться о встрече .
+- 👀 I am interested in growing over myself as a programmer, and I also have a desire to engage in scientific territory. I am interested in pursuing advanced technologies and am gradually learning the basic C# language.
+- 🌱 Now I am studying at Mariupol State University (System Analysis).
+- 💞️ Always happy to cooperate...
+- 📫 How to contact me to arrange a meeting in advance:
+- soraplay111@gmail.com
 
 <!---
 soraplay/soraplay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
